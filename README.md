@@ -10,11 +10,12 @@ Face Morphing Attack Detection (MAD) is a critical challenge in face recognition
 
 ## Datasets Download
 
-TBR
+The benchmarking datasets can be requested in their official repositories: [MAD22](https://github.com/marcohuber/SYN-MAD-2022) and [MorDIFF](https://github.com/naserdamer/MorDIFF).
 
 ## How to Run?
 
-TBR
+1. Run `test_clip.sh` to perform CLIP zero-shot MAD evaluation
+2. Run the notebook `MADPromptS_explainability.ipynb` to perform the explainability analysis
 
 ## Citation
 
