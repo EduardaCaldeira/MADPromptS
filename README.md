@@ -1,4 +1,4 @@
-# This is the official repository of the paper "MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation" (accepted at the SVC Workshop, ACMMM 2025)
+# This is the official repository of the paper [MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation](https://arxiv.org/abs/2508.08939) (accepted at the SVC Workshop, ACMMM 2025)
 
 ## Abstract
 
@@ -15,7 +15,17 @@ The benchmarking datasets can be requested in their official repositories: [MAD2
 
 ## Citation
 
-TBR
+If you use any of the code, pruned datasets or models provided in this repository, please cite the following paper:
+
+<pre>@misc{caldeira2025madprompts,
+      title={MADPromptS: Unlocking Zero-Shot Morphing Attack Detection with Multiple Prompt Aggregation}, 
+      author={Eduarda Caldeira and Fadi Boutros and Naser Damer},
+      year={2025},
+      eprint={2508.08939},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.08939}, 
+} </pre>
 
 ## License
 
